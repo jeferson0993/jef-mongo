@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "nome": "",
+      "type": [
+        ""
+      ],
+      "documents": [
+        {
+          "cpf": "",
+          "matricula": ""
+        }
+      ],
+      "contacts": [
+        {
+          "personal": [
+            ""
+          ],
+          "professional": [
+            ""
+          ]
+        }
+      ],
+      "historic": [
+        {
+          "book": {},
+          "borrowed-start": "",
+          "borrowed-end": ""
+        }
+      ]
+    }
+  ]
+}

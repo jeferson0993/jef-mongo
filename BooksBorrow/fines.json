@@ -1,0 +1,14 @@
+{
+  "fines": [
+    {
+      "id": 0,
+      "reader": {},
+      "books": [
+        {}
+      ],
+      "borrowed-start": "",
+      "borrowed-end": "",
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "title": "",
+      "isbn": 0,
+      "author": [
+        {}
+      ],
+      "published-year": 0,
+      "topics": [
+        ""
+      ],
+      "language": "",
+      "total": 0,
+      "min-stock": 0,
+      "availables": 0,
+      "borrowed": [
+        {
+          "reader": {},
+          "date": "timestamp"
+        }
+      ]
+    }
+  ]
+}

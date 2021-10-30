@@ -1,0 +1,61 @@
+{
+	"borrowers": [
+		{
+			"id": 0,
+			"reader": {
+				"id": 0,
+				"nome": "",
+				"type": [
+					""
+				],
+				"documents": [
+					{
+						"cpf": "",
+						"matricula": ""
+					}
+				],
+				"contacts": [
+					{
+						"personal": [
+							""
+						],
+						"professional": [
+							""
+						]
+					}
+				],
+				"historic": [
+					{
+						"book": {},
+						"borrowed-start": "",
+						"borrowed-end": ""
+					}
+				]
+			},
+			"books": [
+				{
+					"id": 0,
+					"title": "",
+					"isbn": 0,
+					"author": [
+						{}
+					],
+					"published-year": 0,
+					"topics": [
+						""
+					],
+					"language": "",
+					"total": 0,
+					"availables": 0,
+					"borrowed": [
+						{
+							"reader": {},
+							"date": "timestamp"
+						}
+					]
+				}
+			],
+			"date": "timestamp"
+		}
+	]
+}
